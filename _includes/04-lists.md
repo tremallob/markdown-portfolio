@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## A list of my favorite stuff.
+
+- Golf
+- Eating out
+- Having fun
+- Playing games on my phone
