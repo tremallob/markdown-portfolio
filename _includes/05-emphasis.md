@@ -1,8 +1,8 @@
 ## List of stuff to do
-- __*Go out
-- *__Wash car
-- *__Play golf
-- *__Mow the lawn
-- __*Go out
-- **eat dinner
-- __*call deb
+- _Go out_
+- *Wash care*
+- _Play golf_
+- *Mow the lawn*
+- _Go out_
+- *eat dinner*
+- _call deb_
