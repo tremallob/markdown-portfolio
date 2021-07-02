@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## List of stuff to do
+- __*Go out
+- *__Wash car
+- *__Play golf
+- *__Mow the lawn
+- __*Go out
+- **eat dinner
+- __*call deb
